@@ -2,4 +2,4 @@
 
 * Dr. Doom
 * Red Skull
-* Don Pipe
+* Capitan America
